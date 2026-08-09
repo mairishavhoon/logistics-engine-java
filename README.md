@@ -1,6 +1,6 @@
 # Logistics Engine & Order Processing Pipeline
 
-[![Java CI](https://github.com/mairishavhoon/logistics-engine-java/actions/workflows/maven-ci.yml/badge.svg)](https://github.com/mairishavhoon/logistics-engine-java/actions)
+[![Java CI with Maven](https://github.com/mairishavhoon/logistics-engine-java/actions/workflows/maven-ci.yml/badge.svg?branch=main)](https://github.com/mairishavhoon/logistics-engine-java/actions)
 ![Java Version](https://img.shields.io/badge/Java-17%2B-blue)
 ![Testing](https://img.shields.io/badge/Testing-JUnit%205%20%7C%20Mockito-green)
 ![Build](https://img.shields.io/badge/Build-Maven-red)
