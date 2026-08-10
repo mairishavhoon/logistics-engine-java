@@ -1,6 +1,5 @@
-package com.logisitics;
+package com.logistics;
 
-import com.logistics.Parcel;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.DisplayName;
 
