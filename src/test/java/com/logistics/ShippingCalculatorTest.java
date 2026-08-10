@@ -58,4 +58,3 @@ class ShippingCalculatorTest {
         assertEquals(expectedCost, actualCost, 0.001);
     }
 }
-}
